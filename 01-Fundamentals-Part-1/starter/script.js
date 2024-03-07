@@ -40,6 +40,24 @@ console.log(typeof  year);
 year = 1991;
 console.log(typeof year);
 
-console.log(typeof null);*/
+console.log(typeof null);
 let age = 30;
-age = 31;
+age = 31; 
+
+const birthYear = 1991;
+birthYear = 1990;
+const job;
+
+var job = 'programmer';
+job = 'teacher';
+
+LastName = 'schmedtmann';
+console.log(LastName);*/
+
+const now = 2037;
+const ageJonas = 2037 - 1991;
+const ageSarah = 2037 - 2018;
+console.log(ageJonas, ageSarah); 
+
+console.log(ageJonas * 2, ageJonas / 10, 2 ** 3);
+// 2 ** 3 means 2 to the power of 3 = 2 * 2 * 2
